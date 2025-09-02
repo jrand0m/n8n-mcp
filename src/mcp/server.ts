@@ -1,3 +1,10 @@
+/**
+ * n8n-MCP Server - Model Context Protocol Server for n8n
+ * Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+ * Contributor: jrand0m
+ * Licensed under the Sustainable Use License v1.0
+ */
+
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
 import { 

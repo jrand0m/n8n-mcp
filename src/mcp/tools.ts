@@ -1,11 +1,14 @@
-import { ToolDefinition } from '../types';
-
 /**
  * n8n Documentation MCP Tools - FINAL OPTIMIZED VERSION
+ * Part of n8n-MCP - Model Context Protocol Server for n8n
+ * Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+ * Contributor: jrand0m
  * 
  * Incorporates all lessons learned from real workflow building.
  * Designed to help AI agents avoid common pitfalls and build workflows efficiently.
  */
+
+import { ToolDefinition } from '../types';
 export const n8nDocumentationToolsFinal: ToolDefinition[] = [
   {
     name: 'tools_documentation',

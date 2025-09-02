@@ -1,4 +1,12 @@
 #!/usr/bin/env node
+/**
+ * Security Testing Script
+ * Part of n8n-MCP - Model Context Protocol Server for n8n
+ * Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+ * Contributor: jrand0m
+ * Licensed under the Sustainable Use License v1.0
+ */
+
 import axios from 'axios';
 import { spawn } from 'child_process';
 

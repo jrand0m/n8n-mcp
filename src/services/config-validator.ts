@@ -1,5 +1,8 @@
 /**
  * Configuration Validator Service
+ * Part of n8n-MCP - Model Context Protocol Server for n8n
+ * Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+ * Contributor: jrand0m
  * 
  * Validates node configurations to catch errors before execution.
  * Provides helpful suggestions and identifies missing or misconfigured properties.

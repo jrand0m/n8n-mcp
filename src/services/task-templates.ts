@@ -1,5 +1,8 @@
 /**
  * Task Templates Service
+ * Part of n8n-MCP - Model Context Protocol Server for n8n
+ * Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+ * Contributor: jrand0m
  * 
  * Provides pre-configured node settings for common tasks.
  * This helps AI agents quickly configure nodes for specific use cases.

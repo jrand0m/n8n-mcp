@@ -1,4 +1,11 @@
 #!/usr/bin/env node
+/**
+ * n8n-MCP CLI Entry Point
+ * Part of n8n-MCP - Model Context Protocol Server for n8n
+ * Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+ * Contributor: jrand0m
+ * Licensed under the Sustainable Use License v1.0
+ */
 
 import { N8NDocumentationMCPServer } from './server';
 import { logger } from '../utils/logger';

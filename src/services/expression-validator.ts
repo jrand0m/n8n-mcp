@@ -1,5 +1,9 @@
 /**
  * Expression Validator for n8n expressions
+ * Part of n8n-MCP - Model Context Protocol Server for n8n
+ * Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+ * Contributor: jrand0m
+ * 
  * Validates expression syntax, variable references, and context availability
  */
 

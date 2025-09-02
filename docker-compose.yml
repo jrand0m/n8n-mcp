@@ -1,5 +1,8 @@
 # docker-compose.yml
 # For optimized builds with BuildKit, use: docker-compose -f docker-compose.buildkit.yml up
+# n8n-MCP - Model Context Protocol Server for n8n
+# Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+# Contributor: jrand0m
 version: '3.8'
 
 services:

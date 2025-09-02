@@ -1,3 +1,10 @@
+/**
+ * Vitest Configuration
+ * Part of n8n-MCP - Model Context Protocol Server for n8n
+ * Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+ * Contributor: jrand0m
+ */
+
 import { defineConfig } from 'vitest/config';
 import path from 'path';
 

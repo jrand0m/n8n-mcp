@@ -1,5 +1,8 @@
 # syntax=docker/dockerfile:1.7
 # Ultra-optimized Dockerfile - minimal runtime dependencies (no n8n packages)
+# n8n-MCP - Model Context Protocol Server for n8n
+# Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+# Contributor: jrand0m
 
 # Stage 1: Builder (TypeScript compilation only)
 FROM node:22-alpine AS builder

@@ -94,6 +94,9 @@
     "automation"
   ],
   "author": "Romuald Czlonkowski @ www.aiadvisors.pl/en",
+  "contributors": [
+    "jrand0m"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/czlonkowski/n8n-mcp/issues"

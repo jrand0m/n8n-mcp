@@ -1,5 +1,8 @@
 /**
  * N8N MCP Engine - Clean interface for service integration
+ * Part of n8n-MCP - Model Context Protocol Server for n8n
+ * Copyright (c) 2024 AiAdvisors Romuald Czlonkowski
+ * Contributor: jrand0m
  * 
  * This class provides a simple API for integrating the n8n-MCP server
  * into larger services. The wrapping service handles authentication,

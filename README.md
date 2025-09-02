@@ -805,6 +805,7 @@ See [Automated Release Guide](./docs/AUTOMATED_RELEASES.md) for complete details
 
 - [n8n](https://n8n.io) team for the workflow automation platform
 - [Anthropic](https://anthropic.com) for the Model Context Protocol
+- **jrand0m** - Project contributor
 - All contributors and users of this project
 
 ---
